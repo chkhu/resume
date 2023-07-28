@@ -1,19 +1,25 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Research at CAD&CAG lab
+- company: CAD&CG State Key Lab, ZJU
+  position: Research internship
+  duration: Aug, 2022 &mdash; Present
+  summary: 
+    As a research intern, I demonstrated my core competencies at the State Key Laboratory of Computer-Aided Design and Computer Graphics, Zhejiang University. 
+    I focus on areas such as structural motion, multi-view stereo, SLAM, 3D deep learning, and video and image processing.<br>
+    <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: School of Innovation and Entrepreneurship, ZJU
+  position: PI of a national-level SRTP project
+  duration:  Mar, 2022 &mdash; Mar, 2023
+  summary: 
+    I led an initiative to create a real-time dynamic illumination simulation for a digital twin of an urban environment using Unreal Engine 5.
+    Open-source tools like UrbanScene3D, superMap, and World Creator are used.<br>
+    Feel free to contact me for more information.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# # Communications Coordinator
+# - company: Springfield Women & Children's Center
+#   position: Communications Coordinator
+#   duration:   Jun, 2008  &mdash; May, 2010
+#   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
