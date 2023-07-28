@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # projects
-- project: miniSQL, a self-built DBMS
+- project: MiniSQL, A Self-built DBMS
   role: Collaborator
   duration: Mar,2023 &mdash; Jun,2023
   # url: "#"
