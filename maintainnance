@@ -1,0 +1,14 @@
+cd到resume
+运行 bundle exec jekyll serve，预览实时变化。
+
+网站头部信息基本都在_config.yml中，修改即可。你可以看到变化
+但是要注意的是，链接的编辑处于某种原因无法正常地以这种方式工作，需要在：
+_includes/icon-links.html中编辑
+
+下面各个栏目的信息则在例如
+_data/projects.yml的地方编辑。你可以实时预览变化。
+
+最后确认无误后，
+git add .
+git commit -m "message"
+git push origin gh-pages
