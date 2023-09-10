@@ -7,8 +7,29 @@
   summary: I've find my goal at ZJU. <br>For those who does not known ZJU, it has been a prestigous university since its establishment in 1897. Now it's now a top50 University in the world.
 
 - degree: Master or PhD
-  uni: University of Illinois Urbana-Champaign (hopefully)
+  uni: University of Illinois Urbana-Champaign (Option1)
   year: 2025 &mdash; ~
   awards: 
     - award: Not sure
-  summary: UIUC is my dream school for a MS or a PhD degree.
+  summary: UIUC is one of my dream school for a MS or a PhD degree.
+
+- degree: Master or PhD
+  uni: Chinese University of Hong Kong (Option2)
+  year: 2025 &mdash; ~
+  awards: 
+    - award: Not sure
+  summary: CUHK is one of my dream school for a MS or a PhD degree.
+
+- degree: PhD
+  uni: Imperial College London(Option3)
+  year: 2025 &mdash; ~
+  awards: 
+    - award: Not sure
+  summary: IC is one of my dream school for a MS or a PhD degree.
+
+- degree: Master or PhD
+  uni: ETHz (Option4)
+  year: 2025 &mdash; ~
+  awards: 
+    - award: Not sure
+  summary: ETHz is one of my dream school for a MS or a PhD degree.

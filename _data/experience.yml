@@ -2,21 +2,39 @@
 # Research at CAD&CAG lab
 - company: CAD&CG State Key Lab, ZJU
   position: Research internship
-  duration: Aug, 2022 &mdash; Present
+  duration: Aug 2022 &mdash; Present
   summary: 
     As a research intern, I demonstrated my core competencies at the State Key Laboratory of Computer-Aided Design and Computer Graphics, Zhejiang University. 
     I focus on areas such as structural motion, multi-view stereo, SLAM, 3D deep learning, and video and image processing.<br>
-    <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+    <ul class="resume-item-list"><li>Research on SLAM</li><li>Video&image Processing</li><li>AI powered vision applications</li></ul>
 
-# Director of Digital Stratgy
-- company: School of Innovation and Entrepreneurship, ZJU
+# state-level SRTP
+- company: 3D Vision & Digital Twin SRTP Program, ZJU
   position: PI of a national-level SRTP project
-  duration:  Mar, 2022 &mdash; Mar, 2023
+  duration:  Mar 2022 &mdash; Mar 2023
   summary: 
     I led an initiative to create a real-time dynamic illumination simulation for a digital twin of an urban environment using Unreal Engine 5.
     Open-source tools like UrbanScene3D, superMap, and World Creator are used.<br>
     Feel free to contact me for more information.
 
+# an AI workshop
+- company: AI Vision Workshop, Alibaba Damo Academy
+  position: Open source contributor
+  duration:  Sep 2022 &mdash; Oct 2023
+  summary: 
+    The development plan is based on the FaceChain open source project, focusing on the creation of new style modes. 
+    We searched for a suitable LoRA as a substitute, modified prompts and weight ratios in the code, finally achieving a new style model 
+    that is stable as well as nice-looking.
+
+# an AI contest
+- company: CCCC AI Annovation Contest, Baidu Inc.
+  position: Team leader/AI engineer
+  duration:  Aug 2022 &mdash; Nov 2023
+  summary: 
+    This is a AI research&application contest held by Baidu, targeting students from various majors in universities around the world. 
+    Based on the ERNIE LLM, we apply the forestry knowledge base for fine-tuning and classification & object detection frameworks 
+    such as ResNet/ YOLO, to build "EcoSentinel", an end-to-end intelligent forest patrol system.
+    
 
 # # Communications Coordinator
 # - company: Springfield Women & Children's Center

@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "HU Chenkai 胡宸恺 "
-resume_title:                   "A CS Junior at ZJU"
+resume_name:                    "Hu Chenkai"
+resume_title:                   "A CS Junior at Zhejiang University"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "huchenkai0531@gmail.com"
