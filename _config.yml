@@ -1,5 +1,5 @@
 # Site settings
-title: "Résumé | Hu Chenkai"
+title: "Résumé | HU, CHENKAI"
 description: "Hu Chenkai's Résumé, built using Jekyll and GH Pages."
 
 # Build settings
@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Hu Chenkai"
-resume_title:                   "A CS Junior at Zhejiang University"
+resume_name:                    "HU, CHENKAI"
+resume_title:                   "An Incoming UCLA Master Student (2025)"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "huchenkai0531@gmail.com"
@@ -23,7 +23,9 @@ resume_contact_address:         "Yuquan Campus,Zhejiang University,Hangzhou"
 resume_header_contact_info:     "Yuquan Campus,Zhejiang University,Hangzhou • +86 13735752882 • huchenkai0531@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>        I'm Hu Chenkai, now a junior at <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> majoring in Computer Science. I'm currently on my research internship at <a href='http://www.cad.zju.edu.cn/english.html'>CAD&CG State Key Lab</a> supervised by <a href='https://zhpcui.github.io/' >Prof. Zhaopeng Cui</a>. <br><br>My research interests include LLM/AIGC/CV/VR/XR... The <a href='https://github.com/chkhu/SRTP_city_digital_twin'>SRTP project</a> on metropolitan simulation UE5 models that I'm leading is making steady progress. 👉View my <a href='https://chkhu.github.io/'>homepage</a>.</p>"
+resume_header_intro: "<p>        My research interests include LLM and Data Intelligence. 
+  <br>I am currently seeking SDE internship or job opportunities at tech companies. 
+  <br><br>👉View my <a href='https://chkhu.github.io/'>homepage</a> where I write blogs and keep track of my learning.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -33,21 +35,21 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_projects:        true
-resume_section_experience:      true
 resume_section_education:       true
-resume_section_skills:          true
+resume_section_experience:      true
+resume_section_projects:        true
+# resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+# resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/chkhu"
-  resume_twitter_url:           "https://twitter.com/HUCKK123"
-  resume_linkedin_url:          "https://www.linkedin.com/in/chenkai-hu-984459245/"
+  # resume_twitter_url:           "https://twitter.com/HUCKK123"
+  resume_linkedin_url:          "https://www.linkedin.com/in/%E5%AE%B8%E6%81%BA-%E8%83%A1-62b768356/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://chkhu.github.io/"
   # resume_medium_url:            "https://medium.com/@jglovier"

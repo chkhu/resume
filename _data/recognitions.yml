@@ -1,10 +1,24 @@
 # Recognitions
-- award: Third-place Scholarship
-  organization: Zhejiang University
-  year: 2021, 2022
-  summary: Awarded the  Achievement award for students with the commitment to study and professional accomplishments.
 
-- award: Bronze Medal at National Internet Plus Innovation Contest
-  organization: Ministry of Education of China
-  year: 2022, 2023
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: The 6th CCF Opensource Innovation Contest National Third Prize
+  organization: CCF Opensource Development Committee (CCF ODC)
+  year: 2023
+  # summary: Awarded the  Achievement award for students with the commitment to study and professional accomplishments.
+
+- award: CCCC AI Creativity Competition East China Division First Prize
+  organization: Computer Education Research Association of Chinese Universities
+  year: 2023
+  # summary: Awarded the  Achievement award for students with the commitment to study and professional accomplishments.
+
+
+
+
+# - award: Third-place Scholarship
+#   organization: Zhejiang University
+#   year: 2021, 2022
+#   summary: Awarded the  Achievement award for students with the commitment to study and professional accomplishments.
+
+# - award: Bronze Medal at National Internet Plus Innovation Contest
+#   organization: Ministry of Education of China
+#   year: 2022, 2023
+#   summary: Voted Most Likely To Succeed by a panel of my high school peers.
