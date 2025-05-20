@@ -15,9 +15,9 @@
   duration: Nov 2024 &mdash; Feb 2025
   summary: 
     <ul class="resume-item-list">
-      <li>Developed backend services for the XinGuang application using Spring Boot, enabling user data management and message push functionality, and collaborated with the team to enhance the model’s state memory mechanism.</li>
-      <li>Optimized parts of the message processing logic by utilizing thread pools, improving system concurrency, robustness, and error handling.</li>
-      <li>Assisted in migrating user data to Alibaba Cloud ECS using the Alibaba Cloud SMC tool, and completed deployment and testing.</li>
+      <li>Developed backend services for the XinGuang mobile application, enabling user data management and message push functionality.</li>
+      <li>Optimized message processing by utilizing thread pools, improving system concurrency, robustness, and error handling.</li>
+      <li>Assisted in migrating data to Alibaba Cloud ECS with solid testings.</li>
     </ul>
 
 

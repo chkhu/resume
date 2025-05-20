@@ -10,7 +10,7 @@
   # url: "#"
   description: 
     👉 <a href='https://github.com/chkhu/HybridClean'>link to the Github repo</a>. Public access will be available when the project ends.<br>
-    Investigating enhancements to the IterClea framework by integrating small models (e.g., HoloClean, VAE) with LLMs to reduce resource usage and hallucination risks. Evaluating performance on open-source datasets using accuracy, recall, F1-score, and resource metrics.
+    Exploring enhancements to the IterClean framework by integrating small models (e.g., HoloClean, VAE) with the existing framework to reduce resource usage and hallucination risks. Evaluating its performance on open-source datasets using accuracy, recall, F1-score, and resource metrics.
 
 
 
