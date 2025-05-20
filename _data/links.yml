@@ -1,7 +1,9 @@
 # links
 # - url: "https://arxiv.org/"
 #   description: arXiv
-- url: "https://scholar.google.com/"
-  description: Google Scholar
-- url: "#"
+
+# - url: "https://scholar.google.com/"
+#   description: Google Scholar
+
+- url: "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkxMTM5NTY1MQ=="
   description: WeChat Official Account 搜索🔍:清醒未遂
