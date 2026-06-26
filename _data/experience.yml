@@ -1,23 +1,30 @@
 # Jobs
+- company: Huawei Technologies Co., Ltd.
+  position: AI Engineer Intern — Audio Agent
+  duration: Jun 2026 &mdash; Present
+  summary:
+    <ul class="resume-item-list">
+      <li>Building audio-domain Agent systems, focusing on speech synthesis, voice cloning, and audio effect generation pipelines.</li>
+      <li>Exploring Agent-based architectures for audio understanding and generation tasks using multimodal LLMs (e.g., Qwen3-Omni).</li>
+    </ul>
 
 - company: UniTTEC Co., Ltd.
-  position: Internship (Software Engineer, Java)
-  duration: May 2024 &mdash; Today
-  summary: 
+  position: AI Application Engineer Intern
+  duration: Jun 2025 &mdash; Sep 2025
+  summary:
     <ul class="resume-item-list">
-      <li>Intelligent transportation management software development.</li>
-
+      <li>Built a Multi-Agent collaborative workflow using LangGraph with Chain-of-Thought task planning and state machine scheduling, automating requirements document generation and iteration — improving writing efficiency by 90%+.</li>
+      <li>Designed a Tool Calling mechanism and standardized MCP Server wrappers (document analysis, text validation) based on the Model Context Protocol, decoupling model inference logic from external tools and databases.</li>
     </ul>
 
 
-- company: Shenzhen Lifelight Technology Co., Ltd.
-  position: Internship (Software Engineer, Java)
-  duration: Nov 2024 &mdash; Feb 2025
-  summary: 
+- company: LIGHT WITHIN LIFE PTE. LTD.
+  position: Software Engineer Intern
+  duration: Nov 2024 &mdash; Mar 2025
+  summary:
     <ul class="resume-item-list">
-      <li>Developed backend services for the XinGuang mobile application, enabling user data management and message push functionality.</li>
-      <li>Optimized message processing by utilizing thread pools, improving system concurrency, robustness, and error handling.</li>
-      <li>Assisted in migrating data to Alibaba Cloud ECS with solid testings.</li>
+      <li>Built a Retrieval-Augmented Generation (RAG) system for an AI companion app; applied embedding-based indexing and retrieval over conversation history to construct dynamic context, significantly improving long-context memory accuracy and coherence.</li>
+      <li>Designed scalable backend services using RESTful architecture to support stable, production-level dialogue services.</li>
     </ul>
 
 
